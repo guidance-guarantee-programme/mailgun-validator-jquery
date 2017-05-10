@@ -1,0 +1,20 @@
+{
+  "name": "mailgun-validator-jquery",
+  "authors": [
+    "peter.guntrip@pensionwise.gov.uk"
+  ],
+  "description": "Jquery plugin using mailgun's email validation API service",
+  "keywords": [
+    "mailgun"
+  ],
+  "license": "MIT",
+  "homepage": "https://www.mailgun.com/",
+  "main": "./mailgun-validator-jquery.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
